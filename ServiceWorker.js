@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-WEB GL RECORD PLUGIN-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.unityweb",
-    "Build/Build.data.unityweb",
-    "Build/Build.wasm.unityweb",
+    "Build/LLA.loader.js",
+    "Build/LLA.framework.js.unityweb",
+    "Build/LLA.data.unityweb",
+    "Build/LLA.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
